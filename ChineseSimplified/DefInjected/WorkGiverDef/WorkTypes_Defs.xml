@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Repair_Janitor.label>修理受损的建筑</Repair_Janitor.label>
+  <Repair_Janitor.verb>修理</Repair_Janitor.verb>
+  <Repair_Janitor.gerund>修理</Repair_Janitor.gerund>
+
+  <FixBrokenDownBuilding_Janitor.label>替换损坏的零部件</FixBrokenDownBuilding_Janitor.label>
+  <FixBrokenDownBuilding_Janitor.verb>替换损坏的零部件</FixBrokenDownBuilding_Janitor.verb>
+  <FixBrokenDownBuilding_Janitor.gerund>替换损坏的零部件</FixBrokenDownBuilding_Janitor.gerund>
+
+  <FluffyBreakdowns_Maintenance_Janitor.label>维护零件</FluffyBreakdowns_Maintenance_Janitor.label>
+  <FluffyBreakdowns_Maintenance_Janitor.verb>维护</FluffyBreakdowns_Maintenance_Janitor.verb>
+  <FluffyBreakdowns_Maintenance_Janitor.gerund>维护</FluffyBreakdowns_Maintenance_Janitor.gerund>
+
+  <RearmTurrets_Janitor.label>整备炮塔</RearmTurrets_Janitor.label>
+  <RearmTurrets_Janitor.verb>整备</RearmTurrets_Janitor.verb>
+  <RearmTurrets_Janitor.gerund>整备</RearmTurrets_Janitor.gerund>
+
+  <Refuel_Janitor.label>补充燃料</Refuel_Janitor.label>
+  <Refuel_Janitor.verb>补充燃料</Refuel_Janitor.verb>
+  <Refuel_Janitor.gerund>补充燃料</Refuel_Janitor.gerund>
+
+  <HaulGeneral_Janitor.label>搬运物品</HaulGeneral_Janitor.label>
+  <HaulGeneral_Janitor.verb>搬运</HaulGeneral_Janitor.verb>
+  <HaulGeneral_Janitor.gerund>搬运</HaulGeneral_Janitor.gerund>
+
+  <HaulMerge_Janitor.label>合并物品</HaulMerge_Janitor.label>
+  <HaulMerge_Janitor.verb>合并</HaulMerge_Janitor.verb>
+  <HaulMerge_Janitor.gerund>合并</HaulMerge_Janitor.gerund>
+
+  <CleanFilth_Janitor.label>清理污渍</CleanFilth_Janitor.label>
+  <CleanFilth_Janitor.verb>清理</CleanFilth_Janitor.verb>
+  <CleanFilth_Janitor.gerund>清理</CleanFilth_Janitor.gerund>
+
+  <CleanClearSnow_Janitor.label>清除积雪</CleanClearSnow_Janitor.label>
+  <CleanClearSnow_Janitor.verb>除雪</CleanClearSnow_Janitor.verb>
+  <CleanClearSnow_Janitor.gerund>除雪</CleanClearSnow_Janitor.gerund>
+
+
+</LanguageData>
