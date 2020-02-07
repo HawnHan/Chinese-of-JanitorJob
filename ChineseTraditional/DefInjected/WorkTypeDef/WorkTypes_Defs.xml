@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Janitorial.label>養護員</Janitorial.label>
+  <Janitorial.label>養護</Janitorial.label>
   <Janitorial.description>維護受損或損壞的物件。</Janitorial.description>
-  <Janitorial.labelShort>養護員</Janitorial.labelShort>
-  <Janitorial.pawnLabel>養護員</Janitorial.pawnLabel>
-  <Janitorial.gerundLabel>養護員</Janitorial.gerundLabel>
-  <Janitorial.verb>養護員</Janitorial.verb>
+  <Janitorial.labelShort>養護</Janitorial.labelShort>
+  <Janitorial.pawnLabel>養護</Janitorial.pawnLabel>
+  <Janitorial.gerundLabel>養護</Janitorial.gerundLabel>
+  <Janitorial.verb>養護</Janitorial.verb>
 
 
 </LanguageData>
